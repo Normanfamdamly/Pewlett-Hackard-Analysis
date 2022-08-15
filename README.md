@@ -6,6 +6,6 @@ The purpose of this analaysis is to help prepare the company for the upcoming "s
 
 ## Results
 ![Retirment_Titles.png](https://github.com/Normanfamdamly/Pewlett-Hackard-Analysis/blob/main/Retirment_Titles.png)
-![image_name](path/to/image_name.png
+![Retiring_Titles.png](https://github.com/Normanfamdamly/Pewlett-Hackard-Analysis/blob/main/Retiring_Titles.png)
 ![image_name](path/to/image_name.png
 ![Mentorship.png](https://github.com/Normanfamdamly/Pewlett-Hackard-Analysis/blob/main/Mentorship.png)
