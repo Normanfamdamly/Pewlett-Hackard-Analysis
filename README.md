@@ -8,4 +8,4 @@ The purpose of this analaysis is to help prepare the company for the upcoming "s
 ![image_name](path/to/image_name.png
 ![image_name](path/to/image_name.png
 ![image_name](path/to/image_name.png
-![image_name](path/to/image_name.png
+![Mentorship.png](https://github.com/Normanfamdamly/Pewlett-Hackard-Analysis/blob/main/Mentorship.png)
